@@ -2,7 +2,7 @@
 This is the full documentation for my SOC homelab that I presented on
 
 # Tech Stack
-I decided on a fully cloud-based approach using DigitalOcean.
+I decided on a fully cloud-based approach using [DigitalOcean](https://www.digitalocean.com/).
 
 I had one virtual machine running the [SANS ISC D-Shield Honeypot](https://isc.sans.edu/honeypot.html), which included honeypot services for ssh, telnet, and also had a web instance running to capture web attacks.
 
