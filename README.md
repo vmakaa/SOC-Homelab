@@ -52,4 +52,37 @@ Overall, setting up a honeypot was good learning experience and provided me insi
 I doubt this will be my last experience with honeypots, as I really want to try two new honeypots that I had found. One of them is called [Gaspot](https://github.com/sjhilt/GasPot), which is an ICS honeypot that "emulates Veeder-Root TLS-350 / TLS-450 Automatic Tank Gauge (ATG) controller commonly found at gas stations worldwide." Another one that I found is actually a list of honeypots all running together on a single amchine developed by T-Mobile's Telekom Security. This honeypot is called [T-Pot](https://github.com/telekom-security/tpotce) and includes honeypots that mimic LLMs, ICSs, and classic ssh and web honeypots just to name a few.
 
 # Screenshots
+<img width="1902" height="297" alt="Screenshot 2026-04-03 170416" src="https://github.com/user-attachments/assets/ff099133-3358-4d30-94c5-306f80aca0c8" />
+Total alerts <img width="1919" height="991" alt="Screenshot 2026-05-04 114842" src="https://github.com/user-attachments/assets/e2615c3c-d5f2-4e89-afa4-795663a2fabb" />
+<img width="1645" height="777" alt="Screenshot 2026-04-03 170509" src="https://github.com/user-attachments/assets/85fcfec0-1a87-40bc-b322-cac0ead7bfb2" />
+
+
+<img width="1885" height="268" alt="Screenshot 2026-05-04 114948" src="https://github.com/user-attachments/assets/aab8753b-a49a-4acb-af38-9608935caa21" />
+
+<img width="925" height="110" alt="Screenshot 2026-05-04 115012" src="https://github.com/user-attachments/assets/30f6e3ad-c76c-4ba3-9385-e87b4c6720e5" />
+
+<img width="1123" height="302" alt="Screenshot 2026-05-04 115218" src="https://github.com/user-attachments/assets/fc20a4fb-1e04-4a84-88ac-64ea4ab70c52" />
+
+<img width="1051" height="244" alt="Screenshot 2026-05-04 115322" src="https://github.com/user-attachments/assets/feef4a9a-44e3-45ed-b2cf-9a74efd1a34a" />
+
+<img width="881" height="722" alt="Screenshot 2026-05-04 115347" src="https://github.com/user-attachments/assets/04cedc28-ec62-4747-b9ea-5c73c38534ce" />
+
+<img width="626" height="728" alt="Screenshot 2026-05-04 115351" src="https://github.com/user-attachments/assets/818d0ad5-9deb-452d-bd7c-a5aa4d5f482e" />
+
+<img width="583" height="313" alt="Screenshot 2026-05-04 115407" src="https://github.com/user-attachments/assets/14f62351-37c8-473f-a0a7-279961114ab2" />
+
+<img width="1057" height="187" alt="Screenshot 2026-05-04 115457" src="https://github.com/user-attachments/assets/6cc9351f-a3ee-4ad6-a3b4-9afc63299cfc" />
+
+<img width="1029" height="870" alt="Screenshot 2026-05-04 115525" src="https://github.com/user-attachments/assets/149f3e72-d9c2-4359-9348-93970cb37f19" />
+
+<img width="998" height="792" alt="Screenshot 2026-05-04 115617" src="https://github.com/user-attachments/assets/90a7126e-286a-4249-92b9-72103665736b" />
+
+
+
+
+
+
+
+
+
 
