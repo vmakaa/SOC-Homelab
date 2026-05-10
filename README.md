@@ -1,5 +1,5 @@
 # SOC-Homelab (Honeypot Research)
-This is the full documentation for my SOC homelab that I presented on
+This is the full documentation for my SOC homelab (honneypot alert researh) that I presented on
 
 # Tech Stack
 I decided on a fully cloud-based approach using [DigitalOcean](https://www.digitalocean.com/).
