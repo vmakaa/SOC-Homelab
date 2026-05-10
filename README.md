@@ -52,8 +52,11 @@ Overall, setting up a honeypot was good learning experience and provided me insi
 I doubt this will be my last experience with honeypots, as I really want to try two new honeypots that I had found. One of them is called [Gaspot](https://github.com/sjhilt/GasPot), which is an ICS honeypot that "emulates Veeder-Root TLS-350 / TLS-450 Automatic Tank Gauge (ATG) controller commonly found at gas stations worldwide." Another one that I found is actually a list of honeypots all running together on a single amchine developed by T-Mobile's Telekom Security. This honeypot is called [T-Pot](https://github.com/telekom-security/tpotce) and includes honeypots that mimic LLMs, ICSs, and classic ssh and web honeypots just to name a few.
 
 # Screenshots
+Here are the totla number of critical alerts I have amassed trhoughout the lifespan of my honeypot, as you can see one scanner hit my honeypot trying to exploit React2Shell 66 times!
+
+<img width="1919" height="991" alt="Screenshot 2026-05-04 114842" src="https://github.com/user-attachments/assets/e2615c3c-d5f2-4e89-afa4-795663a2fabb" />
 <img width="1902" height="297" alt="Screenshot 2026-04-03 170416" src="https://github.com/user-attachments/assets/ff099133-3358-4d30-94c5-306f80aca0c8" />
-Total alerts <img width="1919" height="991" alt="Screenshot 2026-05-04 114842" src="https://github.com/user-attachments/assets/e2615c3c-d5f2-4e89-afa4-795663a2fabb" />
+
 <img width="1645" height="777" alt="Screenshot 2026-04-03 170509" src="https://github.com/user-attachments/assets/85fcfec0-1a87-40bc-b322-cac0ead7bfb2" />
 
 
