@@ -1,4 +1,4 @@
-# SOC-Homelab
+# SOC-Homelab (Honeypot Research)
 This is the full documentation for my SOC homelab that I presented on
 
 # Tech Stack
