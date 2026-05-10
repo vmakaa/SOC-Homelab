@@ -36,5 +36,5 @@ ip link set gre1 up
 ip addr add 172.16.0.2/30 dev gre1
 
 # Alert Analysis
-With everything now setup
+Before analyzing the payload of the alert, I first check the IP against OSINT tools like [AbuseIPDB](https://www.abuseipdb.com/), [Spur](https://spur.us/), and [Shodan](https://www.shodan.io/) to collect information like if the IP has been reported for malicious activity prior, is this IP using a VPN or a proxy, and what type of machine is this IP originating from and what ports are open.
 
