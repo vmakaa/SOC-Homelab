@@ -4,7 +4,7 @@ This is the full documentation for my SOC homelab that I presented on
 # Tech Stack
 I decided on a fully cloud-based approach using DigitalOcean.
 
-I had one virtual machine running the SANS ISC D-Shield Honeypot, which included honeypot services for ssh, telnet, and also had a web instance running to capture web attacks.
+I had one virtual machine running the [SANS ISC D-Shield Honeypot](https://isc.sans.edu/honeypot.html), which included honeypot services for ssh, telnet, and also had a web instance running to capture web attacks.
 
 In a separate VM, I installed Suricata with all the latest rules and also installed a lightweight eve.json visualization program called Evebox. On the same machine, I also deployed a docker container of [TheHive](https://docs.strangebee.com/thehive/installation/docker/), an open source Incident Management System.
 
