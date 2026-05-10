@@ -55,7 +55,12 @@ I doubt this will be my last experience with honeypots, as I really want to try 
 Here are the totla number of critical alerts I have amassed trhoughout the lifespan of my honeypot, as you can see one scanner hit my honeypot trying to exploit React2Shell 66 times!
 
 <img width="1919" height="991" alt="Screenshot 2026-05-04 114842" src="https://github.com/user-attachments/assets/e2615c3c-d5f2-4e89-afa4-795663a2fabb" />
-<img width="1902" height="297" alt="Screenshot 2026-04-03 170416" src="https://github.com/user-attachments/assets/ff099133-3358-4d30-94c5-306f80aca0c8" />
+
+Here is a close up of the network data from a Realtek SDE RCE attempt:
+
+<img width="1885" height="268" alt="Screenshot 2026-05-04 114948" src="https://github.com/user-attachments/assets/04310285-46b7-4788-9fe3-49f1c6ca457f" />
+
+and here is the payload for that attempt:
 
 <img width="1645" height="777" alt="Screenshot 2026-04-03 170509" src="https://github.com/user-attachments/assets/85fcfec0-1a87-40bc-b322-cac0ead7bfb2" />
 
