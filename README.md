@@ -13,6 +13,7 @@ My vision was to have Suricata monitor inbound and outbound traffic, and when Su
 # Technical Details
 In order for Suricata to have visbility on ingress and egress traffic coming from the honeypot, I created a two gre tunnels, one from the suricata machine to the honeypot (Tunnel A) and vice versa (Tunnel B). I then used iptables to send a copy of all inbound and outbound traffic thrught the IP address of tunnel B.
 
+  # Commands
 iptables -t mangle -A PREROUTING -j TEE --gateway IP of Tunnel B
 
-iptables -t mangle -A POSTROUTING -j TEE --IP of tunnel B
+iptables -t mangle -A POSTROUTING -j TEE --gateway IP of tunnel B
