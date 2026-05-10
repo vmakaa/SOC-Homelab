@@ -73,15 +73,30 @@ Deploying the SANS ISC D-Shield Honeypot directly supports the SANS threat intel
 _________________________________________
 
 <img width="1123" height="302" alt="Screenshot 2026-05-04 115218" src="https://github.com/user-attachments/assets/11522887-9845-4009-8e68-e7c8017d6e5b" />
-_________________________________________
-<img width="881" height="722" alt="Screenshot 2026-05-04 115347" src="https://github.com/user-attachments/assets/d3561603-5789-4f03-aead-46b5c39e4e82" />
-_________________________________________
 
 _________________________________________
 
-_________________________________________
+<img width="626" height="728" alt="Screenshot 2026-05-04 115351" src="https://github.com/user-attachments/assets/04cb372e-eee6-4337-9b36-bf21a8f80a79" />
+
+
+
+
+
+<img width="583" height="313" alt="Screenshot 2026-05-04 115407" src="https://github.com/user-attachments/assets/7b01b76a-6644-4c37-89cb-743b4bf397ec" />
 
 _________________________________________
+The following two screenshots are from the firewall logs
+
+
+<img width="1057" height="187" alt="Screenshot 2026-05-04 115457" src="https://github.com/user-attachments/assets/aad6029e-f371-4918-88e9-85195e705376" />
+
+
+_________________________________________
+
+<img width="1029" height="870" alt="Screenshot 2026-05-04 115525" src="https://github.com/user-attachments/assets/62ad020f-d0cd-4398-8b35-a039e30a4935" />
+
+_________________________________________
+
 
 
 
