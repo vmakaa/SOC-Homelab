@@ -56,23 +56,12 @@ Here are the totla number of critical alerts I have amassed trhoughout the lifes
 
 <img width="1919" height="991" alt="Screenshot 2026-05-04 114842" src="https://github.com/user-attachments/assets/e2615c3c-d5f2-4e89-afa4-795663a2fabb" />
 
-
-
-
-
-
-
-
-
-
-
-
-
+______________________________________________________________________
 Here is a close up of the network data from a Realtek SDE RCE attempt:
 
 <img width="1885" height="268" alt="Screenshot 2026-05-04 114948" src="https://github.com/user-attachments/assets/04310285-46b7-4788-9fe3-49f1c6ca457f" />
 
-
+_________________________________________
 and here is the payload for that attempt:
 
 <img width="1645" height="777" alt="Screenshot 2026-04-03 170509" src="https://github.com/user-attachments/assets/85fcfec0-1a87-40bc-b322-cac0ead7bfb2" />
