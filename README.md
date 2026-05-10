@@ -6,7 +6,7 @@ I decided on a fully cloud-based approach using DigitalOcean.
 
 I had one virtual machine running the SANS ISC D-Shield Honeypot, which included honeypot services for ssh, telnet, and also had a web instance running to capture web attacks.
 
-In a separate VM, I installed Suricata with all the latest rules and also installed a lightweight eve.json visualization program called Evebox. On the same machine, I also deployed a docker container of TheHive, an open source Incident Management System.
+In a separate VM, I installed Suricata with all the latest rules and also installed a lightweight eve.json visualization program called Evebox. On the same machine, I also deployed a docker container of [TheHive](https://docs.strangebee.com/thehive/installation/docker/), an open source Incident Management System.
 
 My vision was to have Suricata monitor inbound and outbound traffic, and when Suricata would alert on malicious traffic the data of thta alert could be viewed in the nice GUI provided by Evebox. For Incident Management, I had Claude write me a python script that would periodically fetch eve.json and import them to TheHive as alerts so that an alert may be escalated to a case.
 
@@ -34,4 +34,7 @@ Machine2 (M2):
 ip tunnel add gre1 mode gre remote <M1 IP> local <M2 IP> ttl 255
 ip link set gre1 up
 ip addr add 172.16.0.2/30 dev gre1
+
+# Alert Analysis
+With everything now setup
 
